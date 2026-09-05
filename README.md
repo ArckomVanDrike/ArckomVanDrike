@@ -1,5 +1,7 @@
 # Andree Settembrino
 
+![Andree Settembrino — Founder & CTO · Software Engineer](assets/andree-settembrino-profile-hero.webp)
+
 Founder & CTO at CashOut
 
 Software Engineer focused on backend systems, AI, POS/ERP infrastructure,
