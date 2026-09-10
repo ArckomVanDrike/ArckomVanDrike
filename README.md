@@ -15,7 +15,6 @@ Field operations orchestration platform for guided, stateful and auditable workf
 Built around deterministic workflow control, organizational governance, edge-first AI,
 provider-agnostic inference and VLM-assisted field evidence.
 
-**Live product site:** [arckomvandrike.github.io/flowfield-open](https://arckomvandrike.github.io/flowfield-open/)
 
 ### [Point X](https://github.com/ArckomVanDrike/point-x-open)
 
