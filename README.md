@@ -8,7 +8,7 @@
 
 Open observatory for temporal, geographic and agentic variation across AI systems.
 
-### [FlowField 3.0](/ArckomVanDrike/flowfield-open)
+### [FlowField 3.0](https://github.com/ArckomVanDrike/flowfield-open)
 
 Field operations orchestration platform for guided, stateful and auditable workflows.
 
