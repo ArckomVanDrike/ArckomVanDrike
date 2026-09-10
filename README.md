@@ -79,3 +79,4 @@ Building and evolving:
 - CashOut Negocios: https://cashoutnegocios.pythonanywhere.com/
 - FlowField 3.0: https://arckomvandrike.github.io/flowfield-open/
 - Point X: https://point-x.netlify.app/
+- SynthArena: https://syntharena.onrender.com
