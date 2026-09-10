@@ -8,9 +8,12 @@
 
 Open observatory for temporal, geographic and agentic variation across AI systems.
 
-### [Point X](https://github.com/ArckomVanDrike/point-x-open)
+### [FlowField 3.0](/ArckomVanDrike/flowfield-open)
 
-Navigation architecture focused on reaching meaningful targets beyond conventional maps.
+Field operations orchestration platform for guided, stateful and auditable workflows.
+
+Built around deterministic workflow control, organizational governance, edge-first AI,
+provider-agnostic inference and VLM-assisted field evidence.
 
 ### [Outy](https://github.com/ArckomVanDrike/outy-open)
 
@@ -52,7 +55,7 @@ Building and evolving:
 - CashOut Negocios
 - Outy
 - Distributed LLM Observatory
-- Point X
+- FlowField 3.0
 - 3AI Defence
 
 ---
