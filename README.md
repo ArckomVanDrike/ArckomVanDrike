@@ -49,8 +49,7 @@ controlled containment and trusted recovery.
 - AI and agent systems
 - software testing and evaluation
 - distributed and resilient architectures
-
-- Field operations and workflow orchestration
+- field operations and workflow orchestration
 
 ---
 
