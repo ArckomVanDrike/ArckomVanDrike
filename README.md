@@ -15,6 +15,10 @@ Field operations orchestration platform for guided, stateful and auditable workf
 Built around deterministic workflow control, organizational governance, edge-first AI,
 provider-agnostic inference and VLM-assisted field evidence.
 
+### [Point X](https://github.com/ArckomVanDrike/point-x-open)
+
+Navigation architecture focused on reaching meaningful targets beyond conventional maps.
+
 ### [Outy](https://github.com/ArckomVanDrike/outy-open)
 
 Territorial multi-agent AI for local intelligence, services and real-world orchestration.
@@ -45,6 +49,8 @@ controlled containment and trusted recovery.
 - software testing and evaluation
 - distributed and resilient architectures
 
+- Field operations and workflow orchestration
+
 ---
 
 ## Current Focus
@@ -56,6 +62,7 @@ Building and evolving:
 - Outy
 - Distributed LLM Observatory
 - FlowField 3.0
+- Point X
 - 3AI Defence
 
 ---
