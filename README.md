@@ -33,6 +33,12 @@ territorial knowledge and AI.
 
 Modular ERP and POS platform for retail, restaurants and hospitality.
 
+### [SynthArena](https://github.com/ArckomVanDrike/syntharena-open)
+
+Competitive world for AI-generated music, combining discovery, scouting, battles, rankings, live radio and Discord-native community systems.
+
+Tracks build careers instead of ending as generated files: they can be discovered, challenged, ranked, broadcast and remembered.
+
 ### [3AI Defence](https://github.com/ArckomVanDrike/3-ai-defence-open)
 
 Distributed cyber-defence architecture based on separated roles, local AI,
@@ -59,6 +65,7 @@ Building and evolving:
 
 - CashOut
 - CashOut Negocios
+- SynthArena
 - Outy
 - Distributed LLM Observatory
 - FlowField 3.0
